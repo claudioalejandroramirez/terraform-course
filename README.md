@@ -14,7 +14,7 @@
 
 ## 📖 Sobre o Repositório
 
-Este repositório é dedicado ao acompanhamento do curso **Terraform do Básico ao Avançado** na Udemy. A grande diferença aqui é o foco em **custo zero** e **segurança total**, utilizando o **LocalStack** para simular toda a infraestrutura da AWS diretamente na sua máquina local.
+Este repositório é dedicado ao acompanhamento do curso **Terraform do Básico ao Avançado** (https://www.udemy.com/course/terraform-do-basico-ao-avancado/) na Udemy. A grande diferença aqui é o foco em **custo zero** e **segurança total**, utilizando o **LocalStack** para simular toda a infraestrutura da AWS diretamente na sua máquina local.
 
 ### 🎯 Por que LocalStack?
 - **💰 Economia:** Sem surpresas na fatura da AWS ao final do mês.

@@ -1,0 +1,34 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Exclude all .tfvars files
+*.tfvars
+*.tfvars.json
+
+# Ignore override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# .env files
+.env
+
+# MacOS folders
+.DS_Store
+
+# Assets
+!assets/banner.png
+
+# Ignorar arquivos de saída
+*.out
+*.plan
+*.backup
